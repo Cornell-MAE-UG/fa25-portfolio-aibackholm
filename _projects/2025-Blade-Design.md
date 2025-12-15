@@ -25,6 +25,6 @@ At the most probable wind speed, the experimental power output was approximately
 
 My Contributions
 
-![Blade CAD]({{ "/assets/images/Torque-Power-Curves.png" | relative_url }}){: .inline-image-l}
+For this group project, while all of us contributed to all parts of the project, my main focus was in creating the CAD model of the blade. This was done through importing the airfoil shape into Inventor and changing the chord length and pitch for multiple sections of the span and then creating a loft through them. I also ensured that the part would be within 3D printing tolerances and that the hub connection point would fit into the testing setup. 
 
-For this group project, while all of us contributed to all parts of the project, my main focus was in creating the CAD model of the blade. This was done through importing the airfoil shape into Inventor and changing the chord length and pitch for multiple sections of the span and then creating a loft through them. I also ensured that the part would be within 3D printing tolerances and that the hub connection point would fit into the testing setup.
+![Blade CAD]({{ "/assets/images/Blade-Cad.png" | relative_url }}){: .inline-image-l}
