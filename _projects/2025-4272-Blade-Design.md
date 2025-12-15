@@ -19,7 +19,7 @@ The blade design was based on our hypothesis that maximizing the lift-to-drag ra
 
 Wind tunnel experiments were conducted to measure turbine performance and validate theoretical predictions. Power and torque curves were generated for multiple wind speeds between 3-6 m/s, successfully capturing the right-hand side of the power curve while maintaining safe operation through monitoring the torque and RPM limits. Testing at higher wind speeds was limited by the torque brake capacity, which prevented measurement of the left-hand side of the power curve and reducing data density at the upper end of the operating range. 
 
-![More power curves]({{ "/assets/images/Torque-Power-Curves.png" | relative_url }})
+![More power curves]({{ "/assets/images/Torque-Power-Curves.png" | relative_url }}) {: style="width: 400px; max-width: 100%; height: auto;"}
 
 At the most probable wind speed, the experimental power output was approximately half of the theoretical prediction, and the model slightly underestimated the operating angular velocity at maximum power for each wind speed.
 
@@ -27,4 +27,4 @@ At the most probable wind speed, the experimental power output was approximately
 
 For this group project, while all of us contributed to all parts of the project, my main focus was in creating the CAD model of the blade. This was done through importing the airfoil shape into Inventor and changing the chord length and pitch for multiple sections of the span and then creating a loft through them. I also ensured that the part would be within 3D printing tolerances and that the hub connection point would fit into the testing setup. 
 
-![CAD Image]({{ "/assets/images/Blade-Cad.png" | relative_url }})
+![CAD Image]({{ "/assets/images/Blade-Cad.png" | relative_url }}) {: style="width: 400px; max-width: 100%; height: auto;"}
