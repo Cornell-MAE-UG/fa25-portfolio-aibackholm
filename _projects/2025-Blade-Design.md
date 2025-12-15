@@ -19,8 +19,7 @@ The blade design was based on our hypothesis that maximizing the lift-to-drag ra
 
 Wind tunnel experiments were conducted to measure turbine performance and validate theoretical predictions. Power and torque curves were generated for multiple wind speeds between 3-6 m/s, successfully capturing the right-hand side of the power curve while maintaining safe operation through monitoring the torque and RPM limits. Testing at higher wind speeds was limited by the torque brake capacity, which prevented measurement of the left-hand side of the power curve and reducing data density at the upper end of the operating range. 
 
-![Power Curves from Testing]({{ "/assets/images/Torque-Power-Curves.png" | relative_url }}){: .inline-image-l}
-![More power curves]({{ "/assets/images/Torque-Power-Curves.png" | relative_url }}){: .inline-image-r style="width: 600px"}
+![More power curves]({{ "/assets/images/Torque-Power-Curves.png" | relative_url }}){: .inline-image-r style="width: 400px"}
 
 At the most probable wind speed, the experimental power output was approximately half of the theoretical prediction, and the model slightly underestimated the operating angular velocity at maximum power for each wind speed.
 
